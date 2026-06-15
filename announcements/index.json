@@ -3,8 +3,6 @@
   "files": {
     "global": "global.json",
     "boorus": {},
-    "hosts": {
-      "gelbooru.com": "hosts/gelbooru.com.json"
-    }
+    "hosts": {}
   }
 }
